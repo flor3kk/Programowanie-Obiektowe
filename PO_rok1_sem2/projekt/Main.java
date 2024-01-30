@@ -1,7 +1,5 @@
 package PO_rok1_sem2.projekt;
 
-import xddd.produkt;
-
 import java.io.*;
 import java.util.InputMismatchException;
 import java.util.Scanner;
